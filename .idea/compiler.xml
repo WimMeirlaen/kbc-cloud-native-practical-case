@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ezGroceriesShopppingList" />
+        <module name="ezGroceriesShoppingList" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ezGroceriesShopppingList" target="11" />
+      <module name="ezGroceriesShoppingList" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="ezGroceriesShopppingList" options="-parameters" />
+      <module name="ezGroceriesShoppingList" options="-parameters" />
     </option>
   </component>
 </project>

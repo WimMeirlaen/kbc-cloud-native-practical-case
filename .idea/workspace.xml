@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3511dc1b-62d5-41b3-8528-f7b5d221cd5b" name="Changes" comment="" />
+    <list default="true" id="3511dc1b-62d5-41b3-8528-f7b5d221cd5b" name="Changes" comment="lab-01 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/src/main/java/com/ezgroceries/shoppinglist/EzGroceriesShopppingListApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ezGroceriesShopppingList/src/test/java/com/ezgroceries/shoppinglist/EzGroceriesShopppingListApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -27,9 +47,9 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.EzGroceriesShopppingListApplicationTests">
-    <configuration name="EzGroceriesShopppingListApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ezGroceriesShopppingList" />
+  <component name="RunManager" selected="JUnit.EzGroceriesShoppingListApplicationTests">
+    <configuration name="EzGroceriesShoppingListApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ezGroceriesShoppingList" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ezgroceries.shoppinglist.*" />
@@ -37,22 +57,22 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ezgroceries.shoppinglist" />
-      <option name="MAIN_CLASS_NAME" value="com.ezgroceries.shoppinglist.EzGroceriesShopppingListApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="com.ezgroceries.shoppinglist.EzGroceriesShoppingListApplicationTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="EzGroceriesShopppingListApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="ezGroceriesShopppingList" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ezgroceries.shoppinglist.EzGroceriesShopppingListApplication" />
+      <module name="ezGroceriesShoppingList" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ezgroceries.shoppinglist.EzGroceriesShoppingListApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EzGroceriesShopppingListApplicationTests" />
+        <item itemvalue="JUnit.EzGroceriesShoppingListApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -65,8 +85,16 @@
       <option name="presentableId" value="Default" />
       <updated>1677575731561</updated>
       <workItem from="1677575733700" duration="173000" />
-      <workItem from="1677575944859" duration="1070000" />
+      <workItem from="1677575944859" duration="4710000" />
     </task>
+    <task id="LOCAL-00001" summary="lab-01 commit">
+      <created>1677578302637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677578302638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab-01 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab-01 commit" />
   </component>
 </project>
